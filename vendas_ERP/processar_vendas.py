@@ -34,9 +34,9 @@ with open(caminho_arquivo, 'r', encoding='latin-1') as file:
 # Cria o DataFrame sem os parâmetros incorretos
 df = pd.DataFrame(dados)
 
-# Define a quarta linha como cabeçalho
-df.columns = df.iloc[3]  # Define a quarta linha como cabeçalho
-df = df[4:]  # Remove as linhas até a quarta
+# Remove as três primeiras linhas e Define a quarta linha como cabeçalho
+df.columns = df.iloc[3]  
+df = df[4:] 
 
 # Manipulação de colunas e linhas
 df.columns = df.columns.str.strip()
