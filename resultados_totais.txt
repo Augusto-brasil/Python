@@ -1,0 +1,73 @@
+Totais por seção:
+              Seção Quantidade Vendida Valor Vendido
+          Mercearia           25232,39     182646,57
+              Bazar            1143,87       9673,55
+           Farmácia            1841,00      38854,28
+       Floricultura             742,00       5842,38
+     Dieticos_sec16             742,00       5842,38
+              Frios             760,45      15430,67
+           Salgados             133,65       5988,66
+         Laticínios            2392,43      34212,14
+         Congelados             977,00      10454,41
+     Frios_Salgados            4263,53      66085,88
+               Aves            1268,28      19992,47
+Carne_Bov_Resfriada            1818,04      58161,84
+        Carne_Suína             114,48       2666,16
+           Vísceras             175,66       2881,63
+            Açougue            3376,46      83702,10
+              Horti            6229,82      50490,67
+           Peixaria             306,09       7040,56
+            Padaria             777,46      12907,07
+        Confeitaria             116,02       4255,41
+          Fast Food               1,00         18,00
+        Restaurante              77,72       6691,26
+      Buffet_Junino              35,00        331,00
+         Rotisseria             215,19       7332,38
+      Café_da_Manhã               7,12        263,77
+         Lanchonete             867,00       5807,87
+       Sucos_Polpas             149,00       1718,29
+               Açaí             270,00       4564,40
+              Sushi               6,43        814,00
+              Pizza             121,92       5845,78
+    Fast_Food_Geral            1742,94      32554,75
+
+Totais por sub-seção:
+  Sub-Seção Quantidade Vendida Valor Vendido
+  SucosFast             55,000        428,06
+  Agua Coco             59,000        936,14
+Cana Açucar             35,000        354,09
+       Bolo             56,248       1891,05
+     Tortas             28,799       1155,67
+   Salgados             17,680        869,41
+      Doces             13,296        339,28
+
+Totais por Terceirizados:
+     Grupo Quantidade Vendida Valor Vendido
+ Salg_terc              0,000          0,00
+Doces_terc              0,000          0,00
+
+Totais por produtos Açaí:
+           Produto Quantidade Vendida Valor Vendido
+   ACAI POPULAR 1L             80,000       1744,00
+ACAI POPULAR 500ML            116,000       1264,40
+     ACAI MEDIO 1L             29,000        864,20
+  ACAI MEDIO 500ML             42,000        625,80
+    ACAI GROSSO 1L              0,000          0,00
+ ACAI GROSSO 500ML              0,000          0,00
+         BACABA 1L              0,000          0,00
+      BACABA 500ML              0,000          0,00
+ACAI MEDIO CONG 1L              3,000         66,00
+
+Totais por produtos Café:
+ Produto Quantidade Vendida Valor Vendido
+ 1338250             35,000        484,75
+ 2044463              0,000          0,00
+32737998              0,000          0,00
+   48518              0,206         11,11
+ 1196464             17,000         91,63
+31987974              3,000          8,07
+ 1157752              1,000         13,49
+31988008              2,000         26,98
+ 2292270             60,000        808,38
+31988024              2,000         26,98
+32317425             12,000        160,86
