@@ -7,3 +7,4 @@ Aperfeiçoando nas seguintes linguagens e ferramnetas para seguir na carreira de
 - Python
 - SQL
 
+## iniciando Projetos remotos com git e github.
