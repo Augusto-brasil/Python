@@ -8,3 +8,5 @@ Aperfeiçoando nas seguintes linguagens e ferramnetas para seguir na carreira de
 - SQL
 
 ## iniciando Projetos remotos com git e github.
+
+subindo projeto remotamente
